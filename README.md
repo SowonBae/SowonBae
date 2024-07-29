@@ -4,7 +4,7 @@
 <img alt="JSP" src ="https://img.shields.io/badge/JSP-000000.svg?&style=for-the-badge&logo=JSP&logoColor=white"></img>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"></img>
 <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"></img>
-<img alt="Spring Boot" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"></img>
+<img alt="Spring Boot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"></img>
 <img alt="JPA" src ="https://img.shields.io/badge/JPA-DAA449.svg?&style=for-the-badge&logo=JPA&logoColor=white"></img>
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"></img>
 <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"></img>
