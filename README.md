@@ -1,7 +1,6 @@
 ### :wave: Hi,there :wave:
 ### :books: technology stack :books:
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></img>
-<img alt="JSP" src ="https://img.shields.io/badge/JSP-00465B.svg?&style=for-the-badge&logo=JSP&logoColor=white"></img>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"></img>
 <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"></img>
 <img alt="Spring Boot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"></img>
@@ -9,7 +8,7 @@
 <img alt="MyBatis" src ="https://img.shields.io/badge/MyBatis-FE5F50.svg?&style=for-the-badge&logo=MyBatis&logoColor=white"></img>
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"></img>
 <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"></img>
-<img alt="MyBatis" src ="https://img.shields.io/badge/MyBatis-333333.svg?&style=for-the-badge&logo=MyBatis&logoColor=white"></img>
+<img alt="JSP" src ="https://img.shields.io/badge/JSP-00465B.svg?&style=for-the-badge&logo=JSP&logoColor=white"></img>
 <img alt="HTML5" src ="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"></img>
 <img alt="CSS" src ="https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"></img>
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"></img>
